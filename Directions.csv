@@ -1,0 +1,19 @@
+;;;;
+;;;;
+;;;;
+;Instructions;;;
+;You have been provided a workbook containing multiple data sets. Each data set represents a funnel stage + you also have a tab with channel spend. Please answer the following questions:;;;
+;How many leads, MQLS, and Opportunties and Closed Won Bookings were created each month?;;;
+;How many leads, MQLS, and Opportunties were created for the account owner territories?  If account owner territory = blank, it is unmatched.  Also normalize the data by Segment (i.e. X Enterprise, X Emerging, X Scale, X SMB) ;;;
+;Provide a paid media channel split for each funnel stage (Leads, MQLs, Pipeline Opportunties and CW Bookings) ;;;
+;By channel, how many MQLs were handraisers? (1 = true, 0 = false);;;
+;For each channel, identify the following:  Lead to MQL conversion rate,  MQL to Pipeline Opportunity Conversion Rate, and the Pipeline Opportunity to Close Won Booking Conversion Rate;;;
+;For each channel, identify the following:  Cost per lead, cost per MQL, cost per Opportunity, cost per Closed Won booking;;;
+;Which utm_campaign generated the most new leads, the most new MQLS and the most new Opportunties?;;;
+;What is the pipeline to spend ratio for each channel?;;;
+;What is the the ROI for each channel?;;;
+;Add any additional data analysis that you think is worth including. ;;;
+;Highlight the insights worth noting from this data pull. ;;;
+;;;;
+;"This take home test is designed to evaluate your analytical abilities as a data analyst for paid media. When completing this take home test, keep in mind the business goals are bookings growth. The final form should be a presented deck with visuals and a talk track.
+";;;
